@@ -1,3 +1,10 @@
+https://youtu.be/mJ3bGvy0WAY
+
+https://github.com/adrianhajdin/project_react_native_jobs
+
+https://dribbble.com/shots/11867493-Job-finder-Mobile-UI-Job-list
+
+
 # Expo Router Example
 
 Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
