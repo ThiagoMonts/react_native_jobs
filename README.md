@@ -13,7 +13,7 @@ Projeto desenvolvido em React Native, com base nos ensinamentos do vídeo - [Bui
 <br>
 
 <p align="center">
-  <img alt="capa" src=".github/project.png" width="100%">
+  <img alt="capa" src=".github/project.jpg" width="50%">
 </p>
 
 ## 🚀 Tecnologias
@@ -70,7 +70,7 @@ $ npm start
 Para acessar o aplicativo, primeiramente você precisa baixar o app Expo, disponivel na [APP Store](https://apps.apple.com/br/app/expo-go/id982107779) ou na [Google Play](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR&gl=US&pli=1) e depois acessar [ESTE LINK](exp://exp.host/@thiagomonts/react_native_jobs?release-channel=default) ou ler o QR Code abaixo: 
 
 <p align="center">
-  <img alt="qr code" src=".github/expo-go.svg" width="100%">
+  <img alt="qr code" src=".github/expo-go.svg" width="50%">
 </p>
 
 <br>
