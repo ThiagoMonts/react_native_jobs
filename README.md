@@ -7,7 +7,7 @@ Projeto desenvolvido em React Native, com base nos ensinamentos do vídeo - [Bui
   <a href="#-projeto">💻 Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-instruções"> 📋 Instruções</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">🔖 Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">📝 Licença</a>
+  <a href="#-licença">📝 Licença</a>
 </p>
 
 <br>
